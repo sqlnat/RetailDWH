@@ -64,6 +64,7 @@
     <Build Include="DimCurrency.sql" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Deploy\PsExec.exe" />
     <None Include="Deploy\Deploy.bat" />
   </ItemGroup>
 </Project>
